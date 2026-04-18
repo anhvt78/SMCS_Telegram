@@ -1,8 +1,9 @@
 # 🎯 TODO List - Team SMCS
 
 ## 🔴 High Priority
+- [ ] 🧪 TEST_SYNC: Nexus đã gửi tín hiệu này từ Server A. Con Sen hãy xác nhận nếu nhìn thấy dòng này!
 - [ ] Triển khai Middleware Queue để điều tiết request API cho toàn bộ bot.
-- [ ] Tích hợp logic Exponential Backoff vào hàm gọi API để xử lý lỗi 429.
+- [ ] Tích hợp logic Exponential la lùi bước lũy thừa (Exponential Backoff) vào hàm gọi API để xử lý lỗi 429.
 - [ ] Cấu hình lại `reserveTokensFloor` lên 20,000 cho @sen_marketting_bot để tránh tràn bộ nhớ.
 
 ## 🟡 Medium Priority
