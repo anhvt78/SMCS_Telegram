@@ -1,0 +1,10 @@
+# Ignore sensitive config and system files
+openclaw.json
+openclaw.json.bak*
+credentials/
+logs/
+*.json
+!TODO.md
+!MEMORY.md
+!memory/*.md
+!scripts/*.sh
